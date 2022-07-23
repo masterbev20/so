@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "51.195.105.95:8010",
-            "user": "44asorwxDRTSqYVBSvqfmZAm98qHQkGZ8Jg72UJi2sZVHvj8HLksjgZ7dV7c2tJPzu9U9UfzaMD6TQ97BiQhhWWF9szXBd7.RIG0",
+            "user": ".RIG0",
             "keepalive": true,
         }
     ]
